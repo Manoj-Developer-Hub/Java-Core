@@ -1,1 +1,3 @@
-This repositary is completely java Core
+This Repositary is Created by Manoj.
+
+The Purpose of this repositary is Java Core For Beginners Easy to Learn.
